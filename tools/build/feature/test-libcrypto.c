@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
-#include "../openssl/sha.h"
-#include "../openssl/md5.h"
+#include "../../../include/openssl/sha.h"
+#include "../../../include/openssl/md5.h"
 
 int main(void)
 {
